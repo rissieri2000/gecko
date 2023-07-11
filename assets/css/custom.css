@@ -28,3 +28,9 @@ body{
  .verde{
     border: solid #c30f90 10px; 
  }
+
+ .circulo{
+    border-radius: 50%;
+    border: #85B948 solid 5px;
+    background-color: blue;
+ }
